@@ -1,5 +1,3 @@
-package com.dowon.chatting;
-
 import javax.swing.JFrame;
 
 public class ServerTest {
